@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-image: url("background.png");
+    overflow: hidden
+}
+
+#mycanvas {
+    width: 1920px;
+    height: 900px;
+}
+
+.labels {
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32;
+}
